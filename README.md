@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a120b,50:3c2415,100:d97706&height=210&section=header&text=Enes%20Karata%C5%9F&fontSize=54&fontColor=fff8eb&animation=fadeIn&fontAlignY=38&desc=Uluslararas%C4%B1%20Lojistik%20Operasyon%20%7C%20IT%20%26%20AI%20Destekli%20Dijital%20%C3%87%C3%B6z%C3%BCmler&descSize=16&descAlignY=62&descColor=fde68a" width="100%" alt="Enes Karataş Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a120b,50:3c2415,100:d97706&height=210&section=header&text=Enes%20Karata%C5%9F&fontSize=54&fontColor=fff8eb&animation=fadeIn&fontAlignY=38&desc=Uluslararas%C4%B1%20Lojistik%20Operasyon%20%7C%20IT%20ve%20AI%20Destekli%20Dijital%20%C3%87%C3%B6z%C3%BCmler&descSize=16&descAlignY=62&descColor=fde68a" width="100%" alt="Enes Karataş Banner" />
 </p>
 
 <p align="center">
