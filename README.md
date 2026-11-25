@@ -16,7 +16,7 @@
     <td valign="top" width="52%">
       <h3>🚀 Hakkımda</h3>
       <p>
-        🚛 <strong>DESNAK Yalçın Nakliyat</strong> bünyesinde <strong>Uluslararası Lojistik Operasyon</strong> süreçlerinde görev alıyorum.<br/><br/>
+        🚛 <strong>Desnak Lojistik</strong> bünyesinde <strong>Uluslararası Lojistik Operasyon</strong> süreçlerinde görev alıyorum.<br/><br/>
         🤖 Web Tasarımı lise altyapımı (HTML &amp; CSS) yapay zeka destekli geliştirme (<strong>vibe coding</strong>) araçlarıyla birleştirerek gerçek iş ihtiyaçlarına yönelik dijital çözümler üretiyorum.<br/><br/>
         🖥️ <strong>Orion PC Bilgisayar Otomasyon</strong>'da IT stajyeri olarak kurumsal CCTV güvenlik sistemleri, donanım bakımı ve saha teknik destek deneyimi kazandım.
       </p>
